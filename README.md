@@ -1,10 +1,16 @@
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?size=30&width=600&lines=Welcome+To+Harshit's+GitHub+Profile!">
+</p>
 
-<!---
-harshitjoshi22/harshitjoshi22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![harshit_banner](https://user-images.githubusercontent.com/90023611/176618769-0aa22000-49b7-435c-b854-82b90d51a3bc.png)
 
-# Hi there, I'm Harshit Joshi! 👋
+<h1 align="center">Hi<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="50">, I'm Harshit Joshi</h1>
+
+<h3 align="center">A passionate frontend developer and programmer from India.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamharshitjoshi&label=Profile%20views&color=0e75b6&style=flat" alt="iamharshitjoshi" /> </p>
+
+<p align="left"> <a href="https://twitter.com/harshit21104110" target="blank"><img src="https://img.shields.io/twitter/follow/harshit21104110?logo=twitter&style=for-the-badge" alt="harshit21104110" /></a> </p>
 
 I'm a passionate MERN Stack Developer with strong problem-solving capabilities and a knack for crafting efficient and scalable solutions. I'm also AWS certified, and I enjoy contributing to open-source projects and collaborating with other developers.
 
