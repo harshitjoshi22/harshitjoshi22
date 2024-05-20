@@ -23,7 +23,9 @@ I'm a passionate MERN Stack Developer with strong problem-solving capabilities a
 - *Cloud Services:* AWS (Amazon Web Services)
 
 ## CODING PROFILE: 
+
 Linktree - https://linktr.ee/iamharshitjoshi
+
 Leetcode - https://leetcode.com/u/harshit_7248/
 
 ## 🛠 Badges 
