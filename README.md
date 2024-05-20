@@ -22,6 +22,10 @@ I'm a passionate MERN Stack Developer with strong problem-solving capabilities a
 - *Programming Languages:* C++, JavaScript
 - *Cloud Services:* AWS (Amazon Web Services)
 
+<a href="https://github.com/your-username/your-repository" target="_blank">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML Badge">
+</a>
+
 ## 🛠 Badges 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
