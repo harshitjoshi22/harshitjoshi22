@@ -22,7 +22,7 @@ I'm a passionate MERN Stack Developer with strong problem-solving capabilities a
 - *Programming Languages:* C++, JavaScript
 - *Cloud Services:* AWS (Amazon Web Services)
 
-## CODING PROFILE: 
+## Coding Profile: 
 
 Linktree - https://linktr.ee/iamharshitjoshi
 
